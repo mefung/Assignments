@@ -1,0 +1,835 @@
+Timestamp,What year (in school) are you?,What is your major?,How old are you?,What is your gender?,What is your height?,What is your weight?,What is your eye color?,Were you born in California?,What is your favorite flavor of ice cream?
+
+1/9/2018 14:49:40,4,Cognitive Science,21,Male,"5'8""",147,Brown,Yes,Vanilla
+
+1/9/2018 14:49:45,3,Cognitive Science,20,Male,5'8,150,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:49:45,Third,Computer Science,21,Male,178cm,74kg,Black,Yes,Matcha
+
+1/9/2018 14:49:45,2,Cogs HCI,20,Male,5’8,133,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:49:47,3,Computer Science,20,Male,"5'8""",160,Brown,Yes,Cookies n' Cream
+
+1/9/2018 14:49:48,3rd,Cognitive Science w/ a specialization in Computation,20,Male,"5'11""",150,Brown,Yes,Chocolate
+
+1/9/2018 14:49:48,4,International Studies,21,Male,5'9,160,Brown,Yes,Vanilla
+
+1/9/2018 14:49:50,3rd year,Computer Science,20,Female,"5 ft, 3 in",106 lb,Brown,Yes,Mint chocolate chip
+
+1/9/2018 14:49:50,5th,Computer Engineering,23,Male,5'10,155,Brown,No,Chocolate
+
+1/9/2018 14:49:50,3,Cognitive Science,20,Male,180 cm,170 pounds,brown,Yes,mint
+
+1/9/2018 14:49:50,2,Computer Science,19,Male,5’8,170,Brown,No,Cookie dough
+
+1/9/2018 14:49:51,Second,Cognitive Science,19,Female,"5'3""",135,Hazel,No,Chocolate 
+
+1/9/2018 14:49:51,3,computer science,20,male,"5'9""",115,brown,Yes,cookies and cream
+
+1/9/2018 14:49:52,2,Computer Science,19,Female,"5'2""",110,Brown,Yes,Vanilla
+
+1/9/2018 14:49:52,4th Year,Computer Science,22,Male,5ft 5inches,167 lbs,brown,Yes,vanilla
+
+1/9/2018 14:49:52,2,Computer Science,20,Female,158cm,60kg,black,No,Chocolate
+
+1/9/2018 14:49:52,5,Chemical Engineering / Literature Writing,22,M,"5'8""",155,Brown,No,Sweet cream
+
+1/9/2018 14:49:54,Senior,Computer Science,26,Male,"5'7""",136,Brown,No,Cookie & Cream
+
+1/9/2018 14:49:54,Junior,Cognitive Science w/ Specialization in Human Computer Interaction,20,Male,5 feet 8 inches,150,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:49:54,2nd,Computer Science,19,F,5'7'',140,brown,Yes,Vanilla
+
+1/9/2018 14:49:55,2nd,Cognitive Science-- Machine Learning and Neural Computation ,19,Female ,5' 8'' ,120,black ,Yes,cookies and cream 
+
+1/9/2018 14:49:56,1,Cse,16,Male,184cm,78kg,Black,No,None
+
+1/9/2018 14:49:56,Third,Cognitive Science,21,Female,"5' 7""",128 lbs,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:49:56,2,Cognitive Science - Design and Interaction,19,Male,6’2”,160,Brown,No,Mint Chocolate Chip
+
+1/9/2018 14:49:56,3rd,cognitive science,20,male,6'1'',220,brown,Yes,mint chocolate chip
+
+1/9/2018 14:49:57,2,CSE,19,Male,5'9,145lb,brown,Yes,cookies and cream
+
+1/9/2018 14:49:57,4,Cog sci design interaction,21,male,5'7'',180,brown,Yes,phish food
+
+1/9/2018 14:49:58,2nd,Math CS,19,Female,4'11,95,brown,Yes,chocolate chip
+
+1/9/2018 14:49:58,3rd year,Electrical Engineering,21,Male,"5'10""",160lbs,Brown,No,Vanilla
+
+1/9/2018 14:50:00,senior,math&econ,20,female,173,130,black,No,
+
+1/9/2018 14:50:01,4,Computer Science,22,Male,177cm,177g,brown,No,rose
+
+1/9/2018 14:50:01,4,Computer Science,21,Male,"5'6""",125 pounds,Brown,Yes,Chocolate Chip Cookie Dough
+
+1/9/2018 14:50:01,4,Cognitive Science,21,Female,5'4,125,Brown,Yes,Moose Tracks
+
+1/9/2018 14:50:02,2nd,Cognitive Science spec/ HCI,19,Male,5'10,210,Hazel,Yes,Vanilla
+
+1/9/2018 14:50:02,3,Cognitive science,20,Male,5’5,130,Brown,No,Vanilla
+
+1/9/2018 14:50:03,third,computer science,20,female,5'4,125,dark brown,Yes,butterscotch
+
+1/9/2018 14:50:03,2,Computer Science,19,Female,5'5,120,Hazel,Yes,Pistacchio
+
+1/9/2018 14:50:05,4,Computer Science,22,Male,6'2,170,Hazel,Yes,Vanilla
+
+1/9/2018 14:50:05,3rd,Computer Engineering,21,Female,,,Brown,No,
+
+1/9/2018 14:50:07,first year,Math-CS,19,Male,171cm,69kg,black,No,Mocha
+
+1/9/2018 14:50:07,Second,Data Science,20,Male,"5'8""",165,Brown,No,Chocolate
+
+1/9/2018 14:50:09,3,Computer Science,20,Female,5' 5'',120,Brown,Yes,Butter Pecan
+
+1/9/2018 14:50:09,4,Cognitive science ,22,Male,5’8,160 lbs,Dark brown ,Yes,Strawberry
+
+1/9/2018 14:50:09,4th,Cognitive Science ,21,Female,5'2,123,Brown,Yes,Pistachio
+
+1/9/2018 14:50:09,Yolanda,Math-CS,24,Famale,5,180,black,No,Chocolate
+
+1/9/2018 14:50:10,4th,Math - CS ,21,Male,"5'9""",150,Brown,Yes,Chocolate 
+
+1/9/2018 14:50:10,3rd,Cognitive Science Human Computer Interaction,20,Female,5'2,135lbs,Brown,Yes,Strawberry
+
+1/9/2018 14:50:10,Junior ,Cognitive Science with specialization in HCI ,20,Female,5'7,120,brown,Yes,coffee
+
+1/9/2018 14:50:11,3,Cognitive Science,20,Male,"5' 8""",140,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:50:12,,Cog Sci,21,Female,,,Brown,Yes,Chocolate
+
+1/9/2018 14:50:12,3rd,Cognitive Science (HCI),21,Female,5'3,125,Brown,No,Cookies & Cream
+
+1/9/2018 14:50:12,Freshman,Computer Science,18,Male,5 feet 9 inches,112 pounds,Dark brown,No,Mint Chocolate
+
+1/9/2018 14:50:12,4,Probability & Statistics,21,Male ,6’0,160,Black,No,Cookie Dough 
+
+1/9/2018 14:50:12,Sophomore,Cog Sci,19,Female,5’3,190,Brown,Yes,Lemon
+
+1/9/2018 14:50:13,4,Computer Science,21,Male,"5'9""",145lbs,Hazel,No,Vanilla
+
+1/9/2018 14:50:13,4th year,Cognitive Science,21,Male,5'11,150,Brown,Yes,Vanilla
+
+1/9/2018 14:50:14,Junior,Cognitive Science - Machine Learning,21,Female,64 in,128 lbs,Brown,Yes,Mint Chocolate
+
+1/9/2018 14:50:14,4th Year,Cognitive Science,21,Male,5' 7'',150 lbs,brown,Yes,Pistachio
+
+1/9/2018 14:50:14,3rd,Computer Science,20,Female,5ft 2in,,brown,No,cookies and cream
+
+1/9/2018 14:50:14,Second,Mathematics-computer science,19,Female,5’3”,130,Brown,Yes,Green tea
+
+1/9/2018 14:50:14,6,Computer science ,23,Male,5’8,173lbs,Brown,Yes,Strawberry 
+
+1/9/2018 14:50:14,3,Computer Science,20,Male,66,135,Brown,No,Cookie Dough
+
+1/9/2018 14:50:15,2,Cognitive Science,19,Male,173cm,73kg,Brown,Yes,Half Baked
+
+1/9/2018 14:50:15,3,Cognitive Science ,20,Male,5’8”,133 lb,Brown,Yes,Green tea
+
+1/9/2018 14:50:15,4,Computer Science,21,Male,"5'10""",180,Brown,Yes,Chocolate
+
+1/9/2018 14:50:16,Second,Computer Science-Bioinformatics,19,Female,5 feet 2 in,107 pounds,Black,Yes,Mango
+
+1/9/2018 14:50:16,Sophomore,Cognitive Science - Design and Interaction,19,Female,5'5,,Brown,No,Chubby hubby ben and jerrys
+
+1/9/2018 14:50:16,2,Computer Science,19,Male,,170,Brown,Yes,Chocolate
+
+1/9/2018 14:50:16,Senior,Computer Scientist,22,Male,5 7,165,Dark brown,No,Coffee
+
+1/9/2018 14:50:16,2nd,Cognitive science (HCI),19,Male,6’,200,Brown,Yes,Pecan praline
+
+1/9/2018 14:50:16,5th,Cognitive Science,23,female,5.4,150,hazel,Yes,cookie dough
+
+1/9/2018 14:50:18,Junior,Cognitive Science,24,Male,6 feet,60kg,black,No,Vanilla
+
+1/9/2018 14:50:18,1,Cogsci specializing in machine learning and neural computation ,18,Male,5'4,140,Brown ,No,Mango
+
+1/9/2018 14:50:18,Third,Cognitive Science,21,Female,5’0”,115,Brown,Yes,Green Tea
+
+1/9/2018 14:50:19,4,Computer Science,22,Male,6'2,240,Brown,Yes,Chocolate
+
+1/9/2018 14:50:20,second year,cognitive science with specialization in machine learning and neural computation,20,female,1.6m,47kg,brown,No,chocolate espresso cookie crumble
+
+1/9/2018 14:50:20,Sophomore,Cognitive Science - Design and Interaction,19,Male,5'8,175,Brown,Yes,Oreo Cookies and Creme
+
+1/9/2018 14:50:20,4,Computer Science,21,female,5 ft 2 in,120 lbs,brown,Yes,tofu
+
+1/9/2018 14:50:21,5th,Cogntive Science with emphasis on Clinical Aspects,23,Female,"5'8""",164,Brown,No,Cookies n Cream
+
+1/9/2018 14:50:21,3rd,Computer Science,20,Female,"5'1""",110 lbs,Green,Yes,Phish Food
+
+1/9/2018 14:50:21,Third Year,Computer Science ,20,Female,5’5”,125,Brown,Yes,Cookie dough
+
+1/9/2018 14:50:21,4th,Cognitive Science,21,Female,5'7,128lbs,Blue,Yes,mint and chip
+
+1/9/2018 14:50:23,4,Cognitive science,22,Male,5'11,160,Brown,No,Oreos
+
+1/9/2018 14:50:23,Senior,Computer Science,22,Male,5'11,155 lb,dark brown,No,N/A
+
+1/9/2018 14:50:23,5,Electrical Engineering,22,male,5' 8'',185,brown,No,pistachio
+
+1/9/2018 14:50:23,2nd year,"Cognitive Science ML&NC major, CSE minor",19,Male,"6'2""",167,Brown,Yes,Cookies and Cream (or Ben & Jerry's Half Baked)
+
+1/9/2018 14:50:24,4th,Computer Science,22,Male,"6'4""",170,Brown,Yes,Chocolate
+
+1/9/2018 14:50:24,Senior,Computer Science,21,Female,"5'8.5""",150,brown ,Yes,Chocolate Chip Cookie Dough
+
+1/9/2018 14:50:24,Second,Cognitive Science,20,Male,178 cm,84 kg,Brown,No,Cookie Dough
+
+1/9/2018 14:50:25,Second,math-cs,19,Male ,"5' 7""",125,Black,No,Matcha
+
+1/9/2018 14:50:25,4th,Cognitive Science: Human-Computer Interaction,21,Female,"5'5""",113,Dark Brown,No,Strawberry
+
+1/9/2018 14:50:25,Third,Computer Science,21,Female,,,Black,No,Green tea
+
+1/9/2018 14:50:26,4,Computer Science,21,Female,"5'2""",,Brown,Yes,Mint chip
+
+1/9/2018 14:50:26,Senior,Political Science,21,Male,6'1,235,Brown,Yes,Cake Batter
+
+1/9/2018 14:50:27,First,Data Science,18,Male,5”7’,128lb,Blue,Yes,Chocolate
+
+1/9/2018 14:50:27,5th (2nd year transfer),Cognitive Science with a specialization in Neuroscience,22,Female,"5'2""",119 lbs,blue,No,mint chocolate chip
+
+1/9/2018 14:50:27,4th Year,Molecular Biology,21,Male,"5'6""",130,Brown,Yes,Chocolate chip cookie dough
+
+1/9/2018 14:50:27,Third,Cognitive Science,20,Female,"5'7""",110 lb,brown,Yes,Chocolate
+
+1/9/2018 14:50:27,Senior,Mathematics-Computer Science,22,Male,174cm,72kg,black,No,vanilla
+
+1/9/2018 14:50:28,4th,Cognitive Science,29,male,71,170,hazel,No,Half Baked
+
+1/9/2018 14:50:28,4,Cognitive Science with a Specialization in Neuroscience ,22,Female,5' 1,122,Brown,No,Mint- brownie
+
+1/9/2018 14:50:28,Senior,Economics,21,F,"5'3""",123,Black,Yes,Earl Gray
+
+1/9/2018 14:50:28,1,Computer Science,19,Male,6 ft,140 lbs,Black,No,Cookies and Cream
+
+1/9/2018 14:50:28,2018,computer engineering ,21,male,5'10,160,brown,No,mint chocolate chip
+
+1/9/2018 14:50:29,Sophomore,Cognitive Science with Specialization in Machine Learning and Neural Computation,19,Female,5” 4’,130,Black,Yes,Coffee
+
+1/9/2018 14:50:29,last year,Computer Engineering ,23,Male,177 cm,70 kg,black,No,Strawberry
+
+1/9/2018 14:50:29,Junior ,Economics ,20,Male ,69 inches ,155 pounds ,Hazel ,Yes,Raspberry 
+
+1/9/2018 14:50:29,4th,Cognitive Science (Design & Interaction),22,Male,5'7,128,black,Yes,French Vanilla
+
+1/9/2018 14:50:30,2,Computer science ,20,Male,5'10,140,Brown,Yes,Chocolate 
+
+1/9/2018 14:50:30,UCSD,Cognitive Science,21,F,5'4'',125 lb,Super dark brown,No,Yogurt or any fruity flavor
+
+1/9/2018 14:50:30,3rd,Cognitive Science ,20,female,"5' 4""",130,dark brown,Yes,vanilla
+
+1/9/2018 14:50:30,2nd,Cognitive Science,19,Male,"6'2""",200,Brown,Yes,Cookies n' Cream
+
+1/9/2018 14:50:30,Second,Cognitive Science,19,Male,5 foot 11,150 lbs,Brown,Yes,Phish food
+
+1/9/2018 14:50:32,4th,Cognitive Science Specialization in Design and Interaction,22,Female,5''2',108,Brown,No,Cookies and cream
+
+1/9/2018 14:50:32,Fifth Year,Cognitive Science w/ Focus on Human Computer Interaction,25,Male,6 feet 0 inches,190,Brown,No,Green Tea
+
+1/9/2018 14:50:32,Third,Math,20,Male,67,15,Brown,Yes,Yams
+
+1/9/2018 14:50:32,2021,Data Science,19,Male,6'1,215,Brown,No,McVoytek
+
+1/9/2018 14:50:32,2nd year,Cognitive science ,19,F,167cm,48kg,brown ,No,cookies and cream
+
+1/9/2018 14:50:32,Fifth year,Cognitive science,21,Male,5'10,155,Green,Yes,Strawberry
+
+1/9/2018 14:50:33,4,Math-Computer Science,22,Female,"5'3""",113,Brown,No,Cookies n Creme
+
+1/9/2018 14:50:33,Junior,Cognitive Science with an emphasis in machine learning and neural computation,26,Male,"6'1""",180,Green,No,I'm vegan
+
+1/9/2018 14:50:33,3rd,Math-Cs,20,Male,5'11'',140,Dark Brown,No,Mint
+
+1/9/2018 14:50:33,4th year,Computer Science,21,male,168cm,52kg,black,No,vanila
+
+1/9/2018 14:50:33,5,Mathematics-Computer Science,22,Female,5’8”,140,Dark Brown,Yes,Vanilla Bean
+
+1/9/2018 14:50:35,3rd,Cogs Sci design specilization,21,female,"5""8",145,brown,Yes,chocolate
+
+1/9/2018 14:50:35,3rd Year,Cognitive Science / HCI,20,Male,"5' 10""",185lbs. ,Brown,Yes,Chocolate Carmel
+
+1/9/2018 14:50:35,3rd,Computer science ,23,Male ,6ft,230lb,Brown,Yes,Chocolate chip 
+
+1/9/2018 14:50:35,2,Computer Engineering ,19,Male,5’5,130,Brown,No,Pistachio
+
+1/9/2018 14:50:35,5,Cognitive Science ,22,Female,"5'5""",150,Brown,Yes,Chocolate Chip Cookie Dough
+
+1/9/2018 14:50:35,4,Cognitive Science,28,female,"5'6""",115,brown,No,cookie dough
+
+1/9/2018 14:50:35,Third,Applied Mathematics,22,Female,163 cm,52kg,Black,No,green 
+
+1/9/2018 14:50:35,3,Computer Science,20,Male,"5'6""",125 lbs,Brown,Yes,Mint chocolate
+
+1/9/2018 14:50:36,3rd,Computer Science,20,Male,5 Feet 6 inches,140 lb,brown,Yes,Cookies and Cream
+
+1/9/2018 14:50:36,2018,computer science,22,male,,,brown,No,
+
+1/9/2018 14:50:37,2nd year,Computer Science,19,Male,173cm,60kg,black,No,Lemon
+
+1/9/2018 14:50:38,Junior,Applied math,21,Male,6.1,168lb,Brown,No,Strawberry cheesecake
+
+1/9/2018 14:50:38,3rd,Cognitive Science (Specialization in Design & Interaction),20,Female,"5'6""",140,Dark Brown,Yes,Mango
+
+1/9/2018 14:50:38,4th year,Computer Science,21,Female,5' 3'',100,brown,Yes,Vanilla
+
+1/9/2018 14:50:39,3rd year ,Cognitive Science ,20,Female,5'4,140 lbs,Blue,Yes,Birthday Cake
+
+1/9/2018 14:50:39,3,MathCS,20,Male,5 foot 7,175,Brown,Yes,Vanilla
+
+1/9/2018 14:50:39,Senior,Chemical Engineering,25,Female,5 ft 3,,Black,No,Green tea
+
+1/9/2018 14:50:39,Junior,Cognitive Science,21,Male,"5 7""",150,Brown,Yes,Green Tea Mango
+
+1/9/2018 14:50:39,Second year,Computer Science,19,Female,"5'2""",120,Black,No,Coffee
+
+1/9/2018 14:50:39,Sophomore,Cogsci HCI,20,Female,"5'5""",120,Brown,No,Caramel Fudge
+
+1/9/2018 14:50:39,Freshman,Computer Science,19,Male,5'7,130 pounds,Brown,Yes,Vanilla
+
+1/9/2018 14:50:39,Sophomore,Computer Engineering ,20,Male,172 cm,124,Black,No,Vanilla 
+
+1/9/2018 14:50:40,4,Computer Science,21,Male,6-5,200,Brown,Yes,Chocolate
+
+1/9/2018 14:50:40,3,Cognitive Science,20,Female,"5'6""",140,brown,Yes,cookies and cream
+
+1/9/2018 14:50:41,2nd,Computer Science,20,Male,5’ 6’’,150 lbs,Brown,Yes,Vanilla
+
+1/9/2018 14:50:41,Second,Cognitive science,19,Male,177cm,84kg,Brown,No,Chocolate
+
+1/9/2018 14:50:41,Second,Cognitive Science,19,Female,,,,Yes,Cookies and Cream
+
+1/9/2018 14:50:41,Sophomore,Cognitive Science-Design,20,Male,"5'7""",119,Green,Yes,Mint
+
+1/9/2018 14:50:42,4,Cog Sci,21,Male,6’0”,160,Blue,Yes,Cookie dough
+
+1/9/2018 14:50:42,Freshman,Computer Science,18,Male,5'8,I don't know dude but heavy probably,Brown ,Yes,Peanut butter
+
+1/9/2018 14:50:42,fourth year,cognitive science - hci,21,female,5'0,103,hazel,Yes,three musketeers
+
+1/9/2018 14:50:43,5,cognitive science,22,men ,5'5,140lbs,brown,No,strawberry
+
+1/9/2018 14:50:43,2nd year,Computer science,19,Male,6 foot,190,Brown,No,Mint
+
+1/9/2018 14:50:43,4,Cognitive Science,21,M,6’ 1”,170lbs,Blue,Yes,Vanilla Honey Lavendar
+
+1/9/2018 14:50:43,2nd year,Cognitive Science- Machine Learning & Neural Computation ,19,Male,5-10,155 lbs,Brown,Yes,Coffee
+
+1/9/2018 14:50:43,Fourth,Cognitive Science,21,Female,,,Black,Yes,Sea salt cookies and cream
+
+1/9/2018 14:50:43,4th year,Bioinformatics,21,Female,5',110,Brown,Yes,Coffee
+
+1/9/2018 14:50:43,Freshman,Computer Science,18,Male,5 ft 8 in,140 lbs,Green,Yes,Strawberry
+
+1/9/2018 14:50:43,Junior,Computer science,21,Male,5 foot 11 inches,120 lbs,Brown,No,Almond
+
+1/9/2018 14:50:44,4,Computer Science,22,Male,"6'2""",175,Brown,Yes,Pistachio
+
+1/9/2018 14:50:44,5,CogSci,32,Male,6,135,Mixed,No,Human
+
+1/9/2018 14:50:44,5,Cognitive Science HCI,23,Male,5’6”,200,Brown,Yes,Vanilla
+
+1/9/2018 14:50:45,2,Cognitive Science,19,female,5'4,160,brown,Yes,coffee
+
+1/9/2018 14:50:45,Second year,Cognitive Science in HCI,19,female,1.7 m,50kg,black,No,original
+
+1/9/2018 14:50:45,Second,Cogs sci,20,female,178,,brown,No,green tea
+
+1/9/2018 14:50:45,3,Computer Science,20,Male,"5' 6""",140 lbs,Brown,No,Cookie Dough
+
+1/9/2018 14:50:46,4th,Cognitive science,21,Male,5 11,135,Brown,No,Vanilla
+
+1/9/2018 14:50:46,2nd,Cogs machine learning,19,Male,5’6”,150,Heterochromia,Yes,Rainbow
+
+1/9/2018 14:50:47,4,Computer Engineering,21,Female,"5'2""",130,Brown,Yes,Mint
+
+1/9/2018 14:50:47,3,Math-CS,21,Male,6 feet,190 lbs,Green,Yes,Cherry Garcia
+
+1/9/2018 14:50:47,3rd,cogs hci,21,female,5'1,115,brown,Yes,GREEN TEAAA
+
+1/9/2018 14:50:48,4,Computer Science,21,Female,5’4,115,brown,Yes,Green Tea
+
+1/9/2018 14:50:49,4,Computer Science,21,Male,5'10,160,Black,Yes,Mint Chip
+
+1/9/2018 14:50:49,3,Cognitive Science,20,Male,5 ft. 9 in,120 lbs,brown,No,chocolate
+
+1/9/2018 14:50:49,Junior,Bioinformatics ,19,Female,170 cm ,52 kg,Dark brown,No,"Fruit, Cookie and Cream"
+
+1/9/2018 14:50:49,5,Psychology,23,Male,6’2”,168lbs,Brown,No,Straciatella 
+
+1/9/2018 14:50:50,Senior,Cognitive science,21,Male,6 ft 1 in,189,Brown,Yes,Strawberry
+
+1/9/2018 14:50:50,Second,Computer science,18,Male,,,Brown,No,Cookies and cream
+
+1/9/2018 14:50:50,First year,Cognitive Science,18,Female,167cm,47kg,Black,No,Chocolate
+
+1/9/2018 14:50:50,Sophomore,Math & Computer Science,19,Male,"5'9""",125,black,No,Strawberry
+
+1/9/2018 14:50:50,4,Computer Science,21,Male,6’0”,160,Brown,Yes,Strawberry
+
+1/9/2018 14:50:50,Senior,Chemical Engineering,24,Male,5’9,168,Brown,No,Green tea
+
+1/9/2018 14:50:50,5,Cog Sci HCI,39,Male,5’ 10”,160 lbs,Hazel,No,Chocolate
+
+1/9/2018 14:50:51,3,Math CS,20,Male,6',160,Brown,No,Cookies and Cream
+
+1/9/2018 14:50:51,Sophmore,MATH-CS,20,Male,6 feet,76KG,Brown,No,I don't like ice cream.
+
+1/9/2018 14:50:51,Third,Computer Science,20,Male,190cm,77kg,Brown/Black,No,Chocolate
+
+1/9/2018 14:50:51,4th,Cognitive Science,21,Male,5'8,181,Brown,Yes,Coconut
+
+1/9/2018 14:50:52,Second Year,Math-CS,19,Male,"5'5""",146,Brown,Yes,Nutty Coconut
+
+1/9/2018 14:50:53,Second year,CogSci w/ Spec in HCI,20,Male,5'7,140lbs,brown,Yes,Coffee
+
+1/9/2018 14:50:53,6,Computer Science,23,Male,5'8 feet,150,Black,Yes,Strawberry
+
+1/9/2018 14:50:54,Junior year,Cogs Spec ML and NC,21,Male,6’q,156,Brown,Yes,Shorbet 
+
+1/9/2018 14:50:54,4,Cognitive Science,21,Male,5 ft 7 in,135,Black,Yes,Vanilla
+
+1/9/2018 14:50:54,3rd,Computer Engineering,21,Male,5 foot 10,140 pounds,Brown,No,Butterscotch
+
+1/9/2018 14:50:54,3,Cognitive Science HCI,22,Male,"5'8""",128 lb,Brown,No,None
+
+1/9/2018 14:50:54,3,Computer Science,21,F,5’6”,110,Brown,Yes,Chocolate chip cookie dough 
+
+1/9/2018 14:50:55,4,Probability and Statistics,21,Male,5 foot 8 inches,120 lbs,Brown,Yes,Strawberry
+
+1/9/2018 14:50:55,4,Computer Science,21,Male,"5'11""",160,Brown,Yes,Chocolate
+
+1/9/2018 14:50:56,2020,Computer Science,19,Male,5’9”,145,Hazel,Yes,Chocolate
+
+1/9/2018 14:50:56,Second year,Cognitive Science,19,Female,161cm,46kg,Black,No,Oreo
+
+1/9/2018 14:50:56,Second Year,Data Science,19,Male,"5'10""",145,Blue,No,Banana
+
+1/9/2018 14:50:56,Fifth ,Math-CS,22,Male,6’0,170,Black,Yes,Vanilla 
+
+1/9/2018 14:50:57,3,Cog Sci,21,Male,6’,140 lb ,Brown,Yes,Cookies and Cream 
+
+1/9/2018 14:50:57,Second,Cognitive Science,20,Female,5 ft,120 lb,Brown,No,Mint Chip
+
+1/9/2018 14:50:57,4th,Cognitive Neuroscience,21,Female,5’ 5”,160,Brown,Yes,Cookies n Cream
+
+1/9/2018 14:50:58,Sophomore ,Computer Science Engineer,20,Male,5’8’’,146lb,Black,No,Sweet taro
+
+1/9/2018 14:50:58,Junior,Cogsci/HCI,20,Male,"5'10""",169lb,black,No,Strawberry
+
+1/9/2018 14:50:59,2,Math-CS,19,Male,"6'3""",250,Brown,Yes,Mint chocolate chip
+
+1/9/2018 14:50:59,3,Computer Science,21,Male,5'7,128,Black,No,Chocolate
+
+1/9/2018 14:50:59,4,Computer Science ,21,Male,5’10,170 pounds,Brown ,No,Strawberry Cheesecake 
+
+1/9/2018 14:51:00,2,CS,19,Male,"6'2""",150 lbs,Brown,No,Strawberry
+
+1/9/2018 14:51:00,Sophomore,Cognitive Science,19,male,6ft,130lb,black,No,wasabi
+
+1/9/2018 14:51:00,Senior,Computer science,21,Male,5’6,130,Brown,No,Chocolate
+
+1/9/2018 14:51:00,3,Physiology and neuroscience,20,Male,5' 10'',150 lbs,Brown,No,Milk
+
+1/9/2018 14:51:01,4th,Computer Science,21,Male,5'11'',160,Brown,Yes,Strawberry
+
+1/9/2018 14:51:01,2,Cognitive Science,20,Male,5 Feet 11 Inches,146 Pounds,Brown,No,Mint Chocolate Chip
+
+1/9/2018 14:51:01,5,Computer Science,22,Male,"6'2""",185,Brown,No,Salted caramel
+
+1/9/2018 14:51:01,Senior,Computer engineering ,21,Male,5 foot 6,200,Brown,Yes,Vanilla 
+
+1/9/2018 14:51:01,3rd year,Cognitive Science - HCI,20,Female,5'2,110,brown,Yes,pistachio
+
+1/9/2018 14:51:02,Senior,Computer Science,21,Male,"5'9""",180,Brown,No,💩
+
+1/9/2018 14:51:02,Senior,Computer science,23,Male,6'3'',250,Hazel,Yes,Strawberry
+
+1/9/2018 14:51:03,4,Management Science,21,Female,162 cm,58 kg,Dark Brown,No,Matcha
+
+1/9/2018 14:51:03,3,Computer Science,21,Male,5 feet 8 inches,150 lbs,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:51:04,Second year,Probability and Statistics,20,Female,5'7,160,Brown,No,peanut butter
+
+1/9/2018 14:51:04,4,Mathematics-Computer Science,21,Male,65in,173lb,Brown,Yes,Brownie
+
+1/9/2018 14:51:04,2nd,Cognit ive Science,20,Male,"5'10""",165,Brown,No,Peppermint 
+
+1/9/2018 14:51:04,4,Computer Science,21,M,5’8.5”,200,Blue,Yes,Cookies n’ Cream
+
+1/9/2018 14:51:04,2nd year ,Cognitive Science,19,female,"5'6""",120,blue,Yes,coffee 
+
+1/9/2018 14:51:05,3,Computer Science,20,Female,5' 1'',120,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:51:05,Second,Bioengineering ,20,Male,1.7 m,70kg,Black,No,
+
+1/9/2018 14:51:06,5,Computer Engineering,22,Male,5'8,180,Brown,Yes,Dulce de lece
+
+1/9/2018 14:51:06,Junior,ICAM & COGS,20,Male,185 cm,56 kg,Black,No,Vanilla
+
+1/9/2018 14:51:07,Junior,Cognitive science,21,male,6 feet 1 in,190lb,brown,Yes,wintermelon milk green tea 70% sweet less ice with boba
+
+1/9/2018 14:51:07,4th year,Cognitive Science with a Specialization in Human Cognition,21,Female,5'3,136,Brown,Yes,Milk & Cereal 
+
+1/9/2018 14:51:08,4,Computer Science,21,Male,176cm,130lb,brown,No,Cookies and Cream
+
+1/9/2018 14:51:08,Senior,Bioinformatics,20,Female,Secret,Secret,I don't know,No,Strawberry
+
+1/9/2018 14:51:08,2nd,cog sci,20,male,5’11,130,brown,No,pistachio
+
+1/9/2018 14:51:08,Sophomore,Cognitive science ,19,Female,170 cm,66 kg,Brown,Yes,Fruit/Lychee
+
+1/9/2018 14:51:10,4th,Cogs Sci HCI,21,Female,5 feet 4 in,,brown,Yes,Mint chocolate
+
+1/9/2018 14:51:10,3rd,Mathematics Computer Science ,20,female,5'3'',134,brown,No,Dark chocolate chip 
+
+1/9/2018 14:51:12,Senior,Psychology and Cognitive Science ,22,Female,5 ft,125lb,Brown,No,Chocolate
+
+1/9/2018 14:51:12,4th,Computer Science,22,Male,"5'6""",135lbs,Black,No,Chocolate Fudge Brownie
+
+1/9/2018 14:51:12,Second,Computer Engineer,19,Male,5’5,145,Hazel ,No,Cookies and Cream
+
+1/9/2018 14:51:12,3rd,Math-CS,20,Male,5'8,120,Brown,Yes,Strawberry
+
+1/9/2018 14:51:12,Junior,Computer Engineering,20,Male,5'7,110,Brown,Yes,Vanilla
+
+1/9/2018 14:51:12,3,Cognitive Science,20,Male,"6'2""",145 lbs,Green,Yes,Rocky Road
+
+1/9/2018 14:51:13,2,Computer Science ,20,Male,175cm,, Brown,No,Mint
+
+1/9/2018 14:51:14,2nd,Cognitive Science,19,Male,5ft 7in,140lbs,Black,Yes,Chocolate
+
+1/9/2018 14:51:14,Senior,Computer Science,21,Male,"5'11""",190,Brown,Yes,Caramel Core
+
+1/9/2018 14:51:14,4,Computer Engineering,21,Male,67in,140lbs,Brown,Yes,Mint
+
+1/9/2018 14:51:15,3rd,Cognitive Science ,20,Female,5’1,102 lbs,Dark Brown,Yes,Cookies n Cream
+
+1/9/2018 14:51:16,Second year,Biochemistry and Cell Biology,19,Male,179cm,67kg,Black,No,Cookies and Cream
+
+1/9/2018 14:51:16,2,Cognitive science,22,Female,160cm,51kg,brown,No,Strawberry
+
+1/9/2018 14:51:16,4,Cognitive Science,22,Male,"5'7""",130,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:51:17,2nd,Cognitive Science  ,19,female,5'10,160,blue,Yes,cookie dough 
+
+1/9/2018 14:51:19,3rd year ,Cognitive Science w/ HCI ,20,Female ,"5'0""",105,black ,No,i don't like ice cream 
+
+1/9/2018 14:51:20,Second,Computer Science,19,Female,"5' 8""",145 lbs,Green,No,Mint chocolate chip
+
+1/9/2018 14:51:21,4th year ,Cog Sci ,21,Male,5-10,320,Brown,Yes,Vanilla
+
+1/9/2018 14:51:21,4th,Computer Science,22,Male,5'6,115,Brown,Yes,Strawberry
+
+1/9/2018 14:51:21,2,Cognitive science spec HCI,19,Male,5 foot 7,145,Green,Yes,Mint chip 
+
+1/9/2018 14:51:21,4,Computer Science,22,Male,5 ft 10 in,130,Brown,Yes,Vanilla
+
+1/9/2018 14:51:22,4,Computer Science,21,Female,168cm,,Dark Brown,Yes,Vanilla
+
+1/9/2018 14:51:22,3rd,Cognitive Science w/ Specialization in Human Computer Interaction,20,Male,5'9,142,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:51:22,Senior,Cog sci,28,Male,"5'10""",180,Blue,Yes,banana
+
+1/9/2018 14:51:23,2nd,CogSci,20,Male,5'10,130,Brown,Yes,Pistachio
+
+1/9/2018 14:51:25,2nd Year,Computer Science,19,Male,"5' 9""",130 lbs.,Brown,Yes,Orange Sherbet
+
+1/9/2018 14:51:26,4,computer science,23,male,6 feet 0 inch,200,brown,Yes,cookies and cream
+
+1/9/2018 14:51:26,2nd,Cognitive Science,20,Male,"6'1""",165,Brown,Yes,Pistachio
+
+1/9/2018 14:51:27,4th,Computer Engineering,21,Male,"5'10""",180,Brown,No,Chocolate 
+
+1/9/2018 14:51:28,Junior,Cognitive Science (Machine Learning and Neural Computation),21,Male,5”6’,145 pounds,Brown,No,Mint Chocolate Chip
+
+1/9/2018 14:51:28,3rd year,Cognitive science neuroscience,20,Female,"4'11""",120,Brown,Yes,Cookie Dough <3
+
+1/9/2018 14:51:28,3,CogSci specialization ML,20,MALE,6’0”,190,Brown,Yes,Strawberry
+
+1/9/2018 14:51:28,3rd,Computer Engineering,20,Male,174cm,168,Brown,Yes,Coffee
+
+1/9/2018 14:51:29,2nd Year,Cognitive Science,19,Male,"5'11""",135,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:51:30,Sophomore,Cognitive Science,19,Male,65 inches,125 lbs,brown,Yes,honey lavender
+
+1/9/2018 14:51:31,Senior,Cog sci,23,male,175cm,119lb,blk,No,cookie&cream
+
+1/9/2018 14:51:32,Sophomore,Cognitive Science ,19,Female,172cm,77kg,Dark brown,No,Vanilla 
+
+1/9/2018 14:51:33,Junior,Psychology Cognitive Science,21,Female,5'2,280,Brown,Yes,Matcha/ Green Tea
+
+1/9/2018 14:51:33,2nd,Probability and statistics,20,Male,"5'8""",120,Brown,Yes,Vanilla
+
+1/9/2018 14:51:33,Second year,Cognitive science,19,Male,189,95kg,Black,No,Cookies and cream
+
+1/9/2018 14:51:33,4,Mathematics - Computer Science,29,Male,6 feet,175 lbs,Brown,No,Coconut
+
+1/9/2018 14:51:33,second year,cognitive science,20,female,5'6,58lbs,dark brown,No,mint chocolate
+
+1/9/2018 14:51:33,4,Molecular Biology ,21,,,,,,Green Tea
+
+1/9/2018 14:51:34,Junior,Interdisciplinary Computing & the Arts,20,Female,165 cm/5'4'' feet,134 pounds,brown,No,Chocolate/Coffee
+
+1/9/2018 14:51:34,Junior,Cognitive Science - Neuroscience,20,Female,"5'7""",129,Brown,No,Peanut butter
+
+1/9/2018 14:51:34,3,Math-CS,20,Male,"6'0""",180,Brown,Yes,Pistachio
+
+1/9/2018 14:51:35,2nd,Management Science ,19,Male,5ft 6in,130,Brown,Yes,Vanilla
+
+1/9/2018 14:51:35,Second year,Cognitive Science with a Specialization in Design and Interaction,20,Male,"5' 6.5""",145,Brown,No,Cookies and cream
+
+1/9/2018 14:51:35,4,Computer Science ,22,Male,"6' 1.5""",85kg,Dark Brown,No,Anything not too sweet 
+
+1/9/2018 14:51:36,2,Computer Science,19,Male,5’7”,145,Brown,Yes,Chocolate
+
+1/9/2018 14:51:36,2nd,Computer Engineering,,Male,5-10,160 pounds,Brown,Yes,
+
+1/9/2018 14:51:37,Second,MathCs,20,Rainbow,511,140,Red,No,Resberry Chocolate 
+
+1/9/2018 14:51:37,4+,Cogs with specialization in HCI,22,Male,5'10,145,Brown,No,Coffee
+
+1/9/2018 14:51:37,3rd,Cognitive Science HCI,20,Female,5’2”,110,Brown,No,Captain Crunch 
+
+1/9/2018 14:51:37,Junior,Cognitive Science,20,F,5 ft 8in,115,Blue,Yes,Coffee
+
+1/9/2018 14:51:37,3,Computer Science,21,Male,5' 7'',152 lbs,Black,No,Chocolate
+
+1/9/2018 14:51:38,3,Cognitive Science (with specialization in computation),20,Male,5 feet and 9 1/2 inches,138 pounds,Dark Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:51:39,2,Cognitive Science,19,Female,"5'6""",112,Brown,No,strawberry
+
+1/9/2018 14:51:39,Junior,Cogs,21,Male,5.8,141,White,No,💩
+
+1/9/2018 14:51:39,Sophomore,Cognitive Science HCI,19,Male,5'11'',70kg,Brown,Yes,Chocolate Vanilla
+
+1/9/2018 14:51:39,2,COGS（ML）,19,Male,177cm,130 pounds,Black,No,I don't like ice cream 
+
+1/9/2018 14:51:40,3,Computer Science,20,Male,,,Brown,Yes,Strawberry
+
+1/9/2018 14:51:41,2nd year,Computer Science ,20,Male,5'6,145 lbs,Brown,Yes,Cookies and cream
+
+1/9/2018 14:51:41,second,computer science,19,male,"5'7""",120,brown,No,strawberry
+
+1/9/2018 14:51:42,4,Cognitive Science ,21,Male,6’4”,170,Green,Yes,Peanut Butter
+
+1/9/2018 14:51:42,3rd,"Cognitive Science, Human-Computer Interaction",20,Female,"5'4""",120 lbs,Brown,No,Vanilla
+
+1/9/2018 14:51:42,3,Computer science,20,Female,5”4,100lbs,Brown,Yes,Strawberry cheesecake
+
+1/9/2018 14:51:42,4,cog sci,22,male,5'10,120 lb,brown,Yes,mint
+
+1/9/2018 14:51:43,2nd year,cognitive science,19,female,5 ft 2 in.,102 kbs,bwon,Yes,"Chocolate, green tea!"
+
+1/9/2018 14:51:43,3,Computer Science ,21,Male,5’8”,155,Brown,No,Cookies and Cream
+
+1/9/2018 14:51:44,Second,Cognitive Science,19,Female,5’ 2”,98 lb,Brown,No,Strawberry
+
+1/9/2018 14:51:44,2,cognitive science,20,female,158cm,50kg,dark brown,No,chocolate
+
+1/9/2018 14:51:44,Freshman,Computer Science,18,Male,72 inches,91 kg,Black,No,Cookie and Cream
+
+1/9/2018 14:51:44,Second year,Cognitive Science specializing in Machine Learning and Computer Science double major,19,female,5 ft 3 inches,107 lb,dark brown,Yes,cookies and cream
+
+1/9/2018 14:51:45,Fourth,Computer Science,23,Male,"5'7""",150lb,Black,No,Nutty Coconut!
+
+1/9/2018 14:51:47,2,Cognitive Science,19,Female,5'1,113,Brown,No,Don't like ice cream
+
+1/9/2018 14:51:47,Senior Year,Cognitive Science - Specialization in Neuroscience.,23,Female ,5 feet 6 inches,145 lbs ,Brown ,No,Cookie's n Cream
+
+1/9/2018 14:51:47,5th,Computer Science,35,Male,"5'11""",205,Brown,Yes,Vanilla
+
+1/9/2018 14:51:47,2nd,Cognitive science machine learning and neural computation,19,Female,5'2,98lbs,Green,No,Red bean
+
+1/9/2018 14:51:47,4th,Cognitive Science,21,Female,"5' 4""",125,Brown,Yes,Green Tea
+
+1/9/2018 14:51:49,2nd (Sophomore),Cognitive Science (Spec. Design and Interaction),18,Male,"5' 10""",145 lb.,Brown,Yes,Strawberry
+
+1/9/2018 14:51:51,5,Cog Sci,25,Male,5'7,170,Brown,Yes,Strawberry
+
+1/9/2018 14:51:51,2,Math-Computer Science,19,Male,"5'5""",120,Black,Yes,Cookies and cream
+
+1/9/2018 14:51:51,4,Machine Learning,24,Male,6,170,brown,No,Banana
+
+1/9/2018 14:51:52,3,Bioengineering ,21,Female,5’6”,112 lbs,Black,No,Mint Chocolate Chip
+
+1/9/2018 14:51:53,3rd,cog sci,20,female,5’3”,106,brown,No,matcha
+
+1/9/2018 14:51:54,3rd,Mathematics - Computer Science,20,Woman,"5'6""",125,Brown,Yes,Black Sesame
+
+1/9/2018 14:51:54,5th,Cognitive Science ,29,Male,"6' 1""",185,Hazel ,Yes,Vanilla 
+
+1/9/2018 14:51:55,3,CS,23,Male,"5'7""",135,Brown,No,Green tea
+
+1/9/2018 14:51:55,3,Cognitive Science HCI,20,Male,5”6,160,Brown,Yes,Vanilla
+
+1/9/2018 14:51:55,Senior,Cognitive science,29,Male,"5'9""",155,Brown,No,Dulce de leche
+
+1/9/2018 14:51:55,Second Year,Computer Science,20,Male,173cm,124pounds,black,No,Chocolate
+
+1/9/2018 14:51:55,Junior,Cognitive and Behavioral Neuroscience,21,Male,6'0,150,blue,No,Chocolate
+
+1/9/2018 14:51:55,Fourth,"Cog Sci, B.S and Poli Sci, B.A.",21,F,"5'1""",110 pounds,Brown,No,Chocolate
+
+1/9/2018 14:51:56,Third Year,Computer Science,20,Male,186cm,82kg,Black,No,Vanilla
+
+1/9/2018 14:51:56,3rd,Cognitive Science HCI,20,male,167,6'1,dark brown,Yes,cookies and cream
+
+1/9/2018 14:51:56,3,Cognitive Science,28,Male,5’10”,145,Brown,No,Pistachio
+
+1/9/2018 14:51:56,2,Human Computer Interaction,20,Male,5 8,130,Brown,Yes,Coffee
+
+1/9/2018 14:51:56,5th,Computer Science,35,Male,"5'11""",205,Brown,Yes,Vanilla
+
+1/9/2018 14:51:56,4th,Electrical engineering,21,Female,"5'1""",100 lbs,Brown,Yes,Strawberry
+
+1/9/2018 14:51:57,Sixth,Linguistics,25,Transgender,"3'4""",300lbs,rainbow,Yes,Diaper
+
+1/9/2018 14:51:57,Junior,MathCS & CogsSci ML Double Major,20,Male,6`1``,175,Brown,No,Mint Choclate
+
+1/9/2018 14:51:58,senior,bioinformatics,21,female,1.6meter,45kg,brown,No,vanilla
+
+1/9/2018 14:51:59,Sophomore ,Cognitive Science HCI,19,Male,5 foot 3 inches,154,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:52:00,2,Cognitive science,19,Male,5.9,130,Balck,No,Chocolate
+
+1/9/2018 14:52:02,3rd year,cognitive science,21,female,5'6,115,brown,No,chocolate 
+
+1/9/2018 14:52:04,3rd,Cognitive Science,22,Male,"5'7""",122 pounds,Brown,Yes,Mint
+
+1/9/2018 14:52:05,2,Cognitive Science ,19,Male,70,142,Brown,Yes,Rocky Road
+
+1/9/2018 14:52:06,4,Cognitive science HCI,21,Male,5 ft 7,150 lb,Brown,Yes,Green tea
+
+1/9/2018 14:52:06,4th,Cognitive Science,21,Female,5’7’’,,Brown,No,
+
+1/9/2018 14:52:07,3rd,Cognitive Science- Human Computer Interaction,20,Female,"5'8""",150,Dark brown,No,Pistachio
+
+1/9/2018 14:52:07,4,Cognitive Science - Machine Learning and Neural Computation,21,Nonbinary,"5'5""",120 lbs.,Brown ,Yes,N/A
+
+1/9/2018 14:52:08,Junior,Cognitive Science,20,Male,"5'5""",141,Brown,Yes,Vanilla
+
+1/9/2018 14:52:10,4,Cognitive Science,22,Female,5’ 2,130,Blue,Yes,Salted Caramel 
+
+1/9/2018 14:52:10,2,EECS,19,,6.21,150,chocolate pudding,Yes,👌👀👌👀👌👀👌👀👌👀 good shit go౦ԁ sHit👌 thats ✔ some good👌👌shit right👌👌there👌👌👌 right✔there ✔✔if i do ƽaү so my self 💯 i say so 💯 thats what im talking about right there right there (chorus: ʳᶦᵍʰᵗ ᵗʰᵉʳᵉ) mMMMMᎷМ💯 👌👌 👌НO0ОଠOOOOOОଠଠOoooᵒᵒᵒᵒᵒᵒᵒᵒᵒ👌 👌👌 👌 💯 👌 👀 👀 👀 👌👌Good shit
+
+1/9/2018 14:52:10,2nd,Cognitive science- design and interaction ,19,Female ,5 foot ,110 pounds,Hazel,Yes,Cookie dough 
+
+1/9/2018 14:52:11,2nd,Math-CS,19,Male,5 ft 10 in,115,Brown,Yes,Cookies and Cream
+
+1/9/2018 14:52:12,Junior,Cognitive Science- Neuroscience,20,female,5'4,120,green,Yes,chocolate
+
+1/9/2018 14:52:12,Senior ,Math-CS,21,Male,5’9”,180,Dark Brown,No,Cookies & Cream
+
+1/9/2018 14:52:13,5,Math-CS,23,Male,"4'20""",155lb,Browb,No,Cookies and Cream
+
+1/9/2018 14:52:13, 3rd Year,Cognitive Science: Machine Learning & Neural Computation,22,Male,6'0,150,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:52:15,Sophmore,Cognitive science specialized in machine learning and neural computetion,20,Male,6’0”,179lb,Black,No,Strawberry
+
+1/9/2018 14:52:18,2,Cognitive Science with a Specialization in Machine Learning & Neural Computation ,20,Male,"5'6""",130 lbs,Black,No,Mint Chocolate Chip
+
+1/9/2018 14:52:19,Fourth Year,Computer engineering,21,Male,6 feet 0 inches,158,Hazel,Yes,Rocky road
+
+1/9/2018 14:52:19,4,Computer engineering,21,Male,"6'2""",185,Black,No,Chocolate
+
+1/9/2018 14:52:20,4,Cognitive science,26,Female,4’11,116,Hazel,Yes,Pistachio
+
+1/9/2018 14:52:20,5,Neuroscience,23,Female,5'2,107 lbs,Brown,No,Rocky Road
+
+1/9/2018 14:52:22,Senior,General Linguistics and Cognitive Science (with Spec. in Clinical Aspects),23,female,5'0'',105 lbs,brown,Yes,cookies and cream
+
+1/9/2018 14:52:23,6,Computer engineering,23,Male,5foot 7inch,135,Brown,Yes,Matcha
+
+1/9/2018 14:52:24,5,Computer Science,22,Male,6ft,200,Brown,Yes,Vanilla
+
+1/9/2018 14:52:25,3,CS,20,Male,"5'3""",91 lbs,Black,No,Vanilla
+
+1/9/2018 14:52:26,2,Cog Sci w/ specialization in Neuroscience,19,Female,5’7,140,Brown,Yes,Vanilla
+
+1/9/2018 14:52:26,Second,Cognitive Science,19,Male,"5' 11""",140,Brown,Yes,Coffee
+
+1/9/2018 14:52:30,1,MathCS,18,M,5 10,N/A,Brown,No,Matcha
+
+1/9/2018 14:52:31,4th,Computer Science,21,Female,4 ft 11 inches,168 lb,Brown,Yes,Vanilla
+
+1/9/2018 14:52:33,4th,Cogs,23,Female,5'4,140lb,Brown ,No,Vanilla 
+
+1/9/2018 14:52:35,2nd year,Computer Engineering,19,Male ,5’8,145,Brown,No,Cookies and Cream
+
+1/9/2018 14:52:36,3,Computer science,20,Male,"5'7""",150 lbs,Brown,No,Vanilla
+
+1/9/2018 14:52:37,second year,computer science,19,male,,,,No,strawberry
+
+1/9/2018 14:52:39,2nd,Computer Engineering,20,Male,"5'9""",76kg,Brown,No,Machine Learning
+
+1/9/2018 14:52:42,3,cs,20,male,176,75,black,No,oreo
+
+1/9/2018 14:52:43,5th,Computer Science,26,Male,"5'7""",150,Brown,No,Strawberry
+
+1/9/2018 14:52:43,2,COGS spc Machine Learning,19,Male,"5'8""",145 lb,Black,Yes,Mint
+
+1/9/2018 14:52:44,2,Computer Engineering,19,F,5,100,Brown,Yes,Mint with chocolate chip flakes
+
+1/9/2018 14:52:48,First,Computer Science,18,Male,178 cm,85 kg,Brown,No,Chocolate 
+
+1/9/2018 14:52:49,Junior standing,Cognitive Science,21,Male,"6'3""",155,Brown,Yes,Strawberry
+
+1/9/2018 14:52:51,2,Cognitive Science,19,F,5’3”,114,Brown,Yes,Pistachio
+
+1/9/2018 14:52:51,3,Cognitive Science,20,Female,"5' 02""",105 pounds,brown,No,pistachio
+
+1/9/2018 14:52:51,3rd,Computer Science,20,Female,5’1”,115 lbs,Brown,Yes,Strawberry
+
+1/9/2018 14:52:52,1,COGS HCI ,22,Female ,4’ 11”,85,Brown,Yes,Strawberry 
+
+1/9/2018 14:52:56,4,Computer Science,21,Male,6 feet,170,Black,Yes,No favorite flavor
+
+1/9/2018 14:52:57,Third,Electrical engineer,21,Male,"5'8""",140 lbs,Black ,Yes,Wintermelon
+
+1/9/2018 14:53:02,Junior standing,Cognitive Science,21,Male,"6'3""",155,Brown,Yes,Strawberry
+
+1/9/2018 14:53:05,Fourth year,Cognitive Science with specialization in Neuroscience ,21,Female,5’ 3.75”,102,Brown,Yes,Mint Chocolate Chip
+
+1/9/2018 14:53:06,4,Cognitive Science specializing in HCI,21,Female,"5'2""",100,Dark brown,Yes,mint chip
+
+1/9/2018 14:53:07,2nd,Cognitive Science,20,F,5'4,110,BLACK,No,green tea
+
+1/9/2018 14:53:10,Fifth,Computer Science,23,Male,5 ft 4 in,147,Brown,Yes,Cookies and cream
+
+1/9/2018 14:53:12,5th,Cog Sci,23,Male,"5' 8""",155,Brown,Yes,Bubble gum
+
+1/9/2018 14:53:13,4th,Cognitive Science: Neuroscience,21,Female,4’ 10”,85 lbs,Brown ,No,Coffee
+
+1/9/2018 14:53:13,4,Computer Science,21,Female,"5'8""",,Brown,Yes,Strawberry
+
+1/9/2018 14:53:18,second,Cogs,19,M,176cm,63kg,black,No,Vanilla
+
+1/9/2018 14:53:23,Second,Computer Science,19,Male,"5'4""",130 lbs.,Brown,Yes,Chocolate
+
+1/9/2018 14:53:24,2018,Under-water Basket Weaving,Too old for this,Apache Helicopter,20 ft,2 tons,Bullet Proof Plexi Glass,Yes,The blood of young children
+
+1/9/2018 14:53:28,3rd,Cogs,21,female,5 5,125lb,black,No,cherry vanilla
+
+1/9/2018 14:53:30,Junior ,Cognitive Science ,21,Female ,5’7,160 pounds,Brown,Yes,Mint chip
+
+1/9/2018 14:53:46,4,CS,21,Male,5'11,130lb,Black,No,Mint chocolate
+
+1/9/2018 14:53:46,2,computer science ,19,male,5’8,168,brown ,Yes,cookies n cream 
+
+1/9/2018 14:54:06,Third year,Cognitive Science specializing in Neuroscience ,21,Female,5’2”,125,Blue/Green,No,Salted Caramel 
+
+1/9/2018 14:54:08,3,Math-CS,20,Female,5’5,125,Brown,No,Sea salt caramel 
+
+1/9/2018 14:54:52,Senior,CogSci Machine Learning,29,Male ,185 cm,185 lbs,Brown,No,Cookies and Cream
+
+1/9/2018 14:55:00,3,Computer Science,20,M,68in,,Brown,Yes,
+
+1/9/2018 14:55:52,Sineor ,Computer Science ,28,Male,5’9”,170,Brown ,No,Chocolate 
+
+1/9/2018 14:57:22,4,Bioengineering,23,male,"5'9""",155,brown,No,peanut butter
+
+1/9/2018 15:04:47,Fourth,Computer Science,21,Male,6’1”,145,Brown,No,Vanilla
