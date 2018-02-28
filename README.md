@@ -29,8 +29,5 @@ Intermixed with this schedule is your final project.
 #### Project Proposal
 Due Sunday, February 18th @ 11:59 pm (W6)
 
-#### Project Check In
-Due Thursday, March 1st (W8)
-
 #### Final Project
 Due Thursday, March 22nd @ 11:59 pm (Finals Week)
